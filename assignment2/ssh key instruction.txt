@@ -1,0 +1,10 @@
+ssh keys verwenden:
+Git Bash->
+
+ssh -keygen
+
+(Generate an SSH Key, enter a passfrase 2 times to confirm)
+
+cat ~/.ssh/id_rsa.pub 
+
+(to print ssh key, copy then in https://gitlab.lrz.de/profile/keys, don't share your ssh keys!)

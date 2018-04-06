@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "224982700225",
+    "firebase_url": "https://socialgaming-b6d55.firebaseio.com",
+    "project_id": "socialgaming-b6d55",
+    "storage_bucket": "socialgaming-b6d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224982700225:android:12195ca74d42fa36",
+        "android_client_info": {
+          "package_name": "de.tum.socialcomp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224982700225-gk6hm1jkm8lha0tgung9hm07fjr90aa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAempkZMhxVFYfRlMIPFQgrj_Tcgvb80fU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224982700225:android:e72d23a18ddaadba",
+        "android_client_info": {
+          "package_name": "com.test.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224982700225-gk6hm1jkm8lha0tgung9hm07fjr90aa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAempkZMhxVFYfRlMIPFQgrj_Tcgvb80fU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
